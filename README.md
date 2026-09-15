@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:-
 I am an B.Tech Engineering student with a strong interest in technology, innovation.<br> I enjoy learning new skills, exploring new technologies, and participating in hackathons, competitions, and technical activities. <br>I am passionate about problem-solving, creativity, and turning ideas into practical solutions. <br>I am always eager to learn, improve my skills, and take on new challenges.<br>
 
 
