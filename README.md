@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am an B.Tech Engineering student with a strong interest in technology, innovation.<br> I enjoy learning new skills, exploring new technologies, and participating in hackathons, competitions, and technical activities. <br>I am passionate about problem-solving, creativity, and turning ideas into practical solutions. <br>I am always eager to learn, improve my skills, and take on new challenges.<br>
-
+I am a B.Tech Engineering student with a strong interest in technology, innovation, and problem-solving. <br> I enjoy learning new skills, exploring emerging technologies, and participating in hackathons, competitions, and technical activities. <br> I am passionate about turning ideas into practical solutions and continuously improving my technical and creative abilities.<br> I am always eager to learn, take on new challenges, collaborate with others, and grow through hands-on experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya%20Sawant-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arya-sawant-432a6641b/)
